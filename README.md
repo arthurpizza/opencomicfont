@@ -5,4 +5,4 @@ In need of a good comic book font that anyone can use for indy comics, professio
 Now with three licenses to choose from: Creative Commons Attribution LGPL AND Creative Commons Zero
 Design by Arthur Reeder Extra contributions by Gustav Hartvigsson
 
-Originall hosted on Google Code.  Last updated in 2009.  Let's build a new version.
+Originally hosted on Google Code.  Last updated in 2009.  Let's build a new version.
