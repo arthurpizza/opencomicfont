@@ -11,6 +11,7 @@ The fastest way to add this font to your site is with CSS:
 ```
 @import url(https://cdn.rawgit.com/arthursucks/opencomicfont/master/import.css);
 ```
+Style it with:
 ```
 font-family: 'Open Comic Font', sans;
 ```
