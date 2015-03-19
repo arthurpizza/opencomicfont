@@ -6,3 +6,11 @@ Now with three licenses to choose from: Creative Commons Attribution LGPL AND Cr
 Design by Arthur Reeder Extra contributions by Gustav Hartvigsson
 
 Originally hosted on Google Code.  Last updated in 2009.  Let's build a new version.
+
+The fastest way to add this font to your site is with CSS:
+```
+@import url(https://cdn.rawgit.com/arthursucks/opencomicfont/master/import.css);
+```
+```
+font-family: 'Open Comic Font', sans;
+```
