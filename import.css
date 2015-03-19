@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Open Comic Font';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Comic Font'), local('OpenComicFont'), url(https://cdn.rawgit.com/arthursucks/opencomicfont/master/OpenComicFont.woff) format('woff');
+}
