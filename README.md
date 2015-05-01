@@ -15,3 +15,8 @@ Style it with:
 ```
 font-family: 'Open Comic Font', sans;
 ```
+# Alternative
+If you're lazy (like me) you can just add this to your HTML header:
+```
+<link rel="stylesheet" href="https://cdn.rawgit.com/arthursucks/opencomicfont/master/opencomicfont.css">
+```
