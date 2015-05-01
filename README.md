@@ -22,4 +22,4 @@ If you're lazy (like me) you can just add this to your HTML header:
 ```
 <link rel="stylesheet" href="https://cdn.rawgit.com/arthursucks/opencomicfont/master/opencomicfont.css">
 ```
-And don't forget to add the "opencomicfont" class to your <h1> or p or span.
+And don't forget to add the "opencomicfont" class to your < h1 > or p or span.
