@@ -11,7 +11,7 @@ Originally hosted on Google Code.  Last updated in 2009.  Let's build a new vers
 
 The fastest way to add this font to your site is with CSS:
 ```
-@import url(https://cdn.rawgit.com/arthursucks/opencomicfont/master/import.css);
+@import url(https://cdn.jsdelivr.net/gh/arthursucks/opencomicfont@2648465342a217cc26a4b191670d3a3fe4a23556/import.css);
 ```
 Style it with:
 ```
@@ -20,6 +20,6 @@ font-family: 'Open Comic Font', sans;
 ## Alternative
 If you're lazy (like me) you can just add this to your HTML header:
 ```
-<link rel="stylesheet" href="https://cdn.rawgit.com/arthursucks/opencomicfont/master/opencomicfont.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/arthursucks/opencomicfont@2648465342a217cc26a4b191670d3a3fe4a23556/import.css">
 ```
 And don't forget to add the "opencomicfont" class to your < h1 > or < p > or < span >.
