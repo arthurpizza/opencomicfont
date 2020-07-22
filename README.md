@@ -13,6 +13,13 @@ The fastest way to add this font to your site is with CSS:
 ```
 @import url(https://cdn.jsdelivr.net/gh/arthursucks/opencomicfont@2648465342a217cc26a4b191670d3a3fe4a23556/import.css);
 ```
+
+## Woff2
+
+```
+@import url(https://cdn.jsdelivr.net/gh/arthursucks/opencomicfont@2648465342a217cc26a4b191670d3a3fe4a23556/import-woff2.css);
+```
+
 Style it with:
 ```
 font-family: 'Open Comic Font', sans;
